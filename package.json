@@ -1,5 +1,5 @@
 {
-  "name": "Cornify"
+  "name": "cornify"
 , "version": "0.0.1"
 , "description": "Connect middleware for inserting cornify into an app"
 , "devDependencies" : {
