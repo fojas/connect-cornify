@@ -1,0 +1,12 @@
+{
+  "name": "Cornify"
+, "version": "0.0.1"
+, "description": "Connect middleware for inserting cornify into an app"
+, "devDependencies" : {
+    "mocha"  : "1.0.3"
+  , "should" : "0.6.3"
+  }
+, "scripts" : {
+    "test" : "./node_modules/.bin/mocha"
+  }
+}
